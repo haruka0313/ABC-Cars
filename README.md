@@ -92,5 +92,8 @@ spring.datasource.password=<YOUR_DB_PASSWORD>
 <img src="./images/about-us.png" alt="about" width="50%"/>
 <p>Contact Page</p>
 <img src="./images/contact.png" alt="contact" width="50%"/>
-
+<p>Admin</p>
+<img src="./images/car-management.png" alt="contact" width="50%"/>
+<br><br>
+<img src="./images/user-management.png" alt="contact" width="50%"/>
 
