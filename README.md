@@ -67,3 +67,30 @@ spring.datasource.password=<YOUR_DB_PASSWORD>
 ```
 
 4. **Run Java Application and open [http://localhost:8080](http://localhost:8080)**
+
+## Screenshot
+
+<p>Home Page</p>
+<img src="./images/homepage.png" alt="home_page" width="50%"/>
+<p>Login</p>
+<img src="./images/login.png" alt="login" width="50%"/>
+<p>Register</p>
+<img src="./images/register.png" alt="register" width="50%"/>
+<p>Profile page</p>
+<img src="./images/profile.png" alt="profile" width="50%"/>
+<p>Edit Profile page</p>
+<img src="./images/edit profile.png" alt="edit profile" width="50%"/>
+<p>Car Detail Page</p>
+<img src="./images/car-detail.png" alt="car_detail" width="50%"/>
+<p>Post Car</p>
+<img src="./images/sell-car.png" alt="post_car" width="50%"/>
+<p>Bid Car</p>
+<img src="./images/car-bid.png" alt="bid_car" width="50%"/>
+<p>Test Drive</p>
+<img src="./images/test-drive.png" alt="test_drive" width="50%"/>
+<p>About Page</p>
+<img src="./images/about-us.png" alt="about" width="50%"/>
+<p>Contact Page</p>
+<img src="./images/contact.png" alt="contact" width="50%"/>
+
+
